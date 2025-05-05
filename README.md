@@ -42,6 +42,11 @@ results
 ### Full Note View with Features
 ![Full Note View](./src/assets/Screenshot%202025-05-05%20095924.png)
 
+
+
+for the voice to text features  just click on the voice symbol seen above 
+also for the colors just select the the colors icon seen above 
+
 1. Auto Categorization
 Each new note is sent to Hugging Face with a prompt:
 
