@@ -31,6 +31,17 @@ git clone https://github.com/your-username/smartkeep.git
 cd smartkeep
 npm install
 
+results 
+
+### Auto Categorization & Reminder Note
+![Auto Categorization](./src/assets/Screenshot%202025-05-05%20095101.png)
+
+### Note Input & Priority Tagging
+![Note Input](./scr/assets/Screenshot%202025-05-05%20095901.png)
+
+### Full Note View with Features
+![Full Note View](./src/assets/Screenshot%202025-05-05%20095924.png)
+
 1. Auto Categorization
 Each new note is sent to Hugging Face with a prompt:
 
