@@ -37,7 +37,7 @@ results
 ![Auto Categorization](./src/assets/Screenshot%202025-05-05%20095101.png)
 
 ### Note Input & Priority Tagging
-![Note Input](./scr/assets/Screenshot%202025-05-05%20095901.png)
+![Note Input](./src/assets/Screenshot 2025-05-05 095901.png)
 
 ### Full Note View with Features
 ![Full Note View](./src/assets/Screenshot%202025-05-05%20095924.png)
