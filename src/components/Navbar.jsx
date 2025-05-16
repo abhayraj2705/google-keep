@@ -18,7 +18,7 @@ const Navbar = ({ onMenuClick, onViewChange, onSearch, isListView }) => {
           <img src={menuIcon} alt="Menu" />
         </button>
         <div className="logo-container">
-          <img src={keepLogo} alt="Keep" className="keep-logo" />
+          <img src="../assets/google.webp" alt="Keep" className="keep-logo" />
           <span>Keep</span>
         </div>
       </div>
